@@ -1,0 +1,68 @@
+B. 3H
+	acabar:
+		
+		-restropectiva.
+
+
+
+
+
+Marcos
+------------------------------------
+16) Els usuaris poden recuperar contrasenya a través d'email. Han de rebre un link que els permeti introduïr una nova contrasenya. 5h
+
+23) Pantalla Administració de projecte:(Product Owner View) Al marc de les especificacions sota la última especificació introduida ha de apareixer un input i un botó "+" per poder introduir una nova especificació (no se ha de introducir en la base de datos).2h.
+
+24) 24.Pantalla Administració de projecte:(Product Owner View) Al marc de les especificacions al costat dret de cada especificació heu de crear els botons (cap amunt) que han de permetre moure cap amunt, moure cap avall o eliminar una especificació 4h 
+
+-Destruir sesión para el login.
+
+
+
+
+XUS
+---------------------------------------------------------
+17).Pantalla Administració de projecte:(Developer View) Un marc per tota la informació general (la introduida quan es crea el projecte) (información que introdujo el scruma). 2h
+
+18) Pantalla Administració de projecte:(Developer View) Un marc per tots els Sprints (aquests son clicables) 1h.
+
+19)Pantalla Administració de projecte:(Developer View) Un marc per totes les especificacions (Product Backlog) 1h.
+
+20) Pantalla Administració de projecte:(Developer View) Quan cliquem en un sprint es visualitza tota la informació de l'sprint ( número de Sprint, data d'inici, data de fi, hores totals de l'sprint, especificacions amb les hores (efecto acordeon). 4h.
+
+24) 24.Pantalla Administració de projecte:(Product Owner View) Al marc de les especificacions al costat dret de cada especificació heu de crear els botons (cap avall) que han de permetre moure cap amunt, moure cap avall o eliminar una especificació 4h 
+
+-Quitar codigo de proyecto del formulario
+
+
+-Errores en el formulario.
+
+
+
+
+
+
+KEVIN
+---------------------------------------------------------------
+
+21) Pantalla Administració de projecte:(Developer View) Els sprints actius s'ha d'indicar amb una marca verda, els sprints acabats amb una marca gris y si está por empezar(negro). 4h
+
+22) 22.Pantalla Administració de projecte:(Product Owner View) Pot fer y veu el mateix que un developer. 1h.
+
+24) 24.Pantalla Administració de projecte:(Product Owner View) Al marc de les especificacions al costat dret de cada especificació heu de crear els botons (eliminar) que han de permetre moure cap amunt, moure cap avall o eliminar una especificació 4h 
+
+-usar framework para css.
+
+
+
+README
+
+-listado de participantes
+-archivo sql
+-ussers/pass.
+
+
+
+-------------------------------------------------------------------------------------------------------
+apuntes:
+https://www.youtube.com/watch?v=C4vQ-nSNAgA(mover objetos con el puntero).
